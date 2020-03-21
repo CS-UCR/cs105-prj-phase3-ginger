@@ -1,0 +1,6 @@
+[submodule "cs105-prj-phase1-ginger"]
+	path = cs105-prj-phase1-ginger
+	url = https://github.com/CS-UCR/cs105-prj-phase1-ginger.git
+[submodule "cs105-prj-phase2-ginger"]
+	path = cs105-prj-phase2-ginger
+	url = https://github.com/CS-UCR/cs105-prj-phase2-ginger.git
