@@ -1,6 +1,9 @@
+# Nmme: Kenta Kawajiri
+# ID: 862189492
+
 # cs105-prj-phase3-ginger
 
-#### __Ignore the folder "cs105-prj-phase2-ginger @ 052bd02" and "cs105-prj-phase1-ginger-master/ranking/billboard2016/billboard2016/sp". I have no idea how to delete these 2 files, so ignore them__
+#### __Ignore the folder "cs105-prj-phase2-ginger @ 052bd02" and "cs105-prj-phase1-ginger-master/ranking/billboard2016/billboard2016/sp". I have no idea how to delete these 2 files, so please ignore them__
 
 cs105-prj-phase1-ginger @ 53048a4 -> Phase1 
 
