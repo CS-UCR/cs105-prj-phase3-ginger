@@ -1,5 +1,5 @@
-# Nmme: Kenta Kawajiri
-# ID: 862189492
+#### Name: Kenta Kawajiri
+#### ID: 862189492
 
 # cs105-prj-phase3-ginger
 
