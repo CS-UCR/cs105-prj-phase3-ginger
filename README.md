@@ -1,7 +1,7 @@
 # cs105-prj-phase3-ginger
 cs105-prj-phase1-ginger @ 53048a4 -> Phase1 
 
-cs105-prj-phase2-ginger @ 052bd02 -> Phase2
+cs105-prj-phase2-ginger-master -> Phase2
 
 ## Files
 Machine Learning.ipynb -> The main file in this project. All the codes about the machine learning are here. 
